@@ -1,3 +1,5 @@
+data/datacsv/train.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -5,6 +7,11 @@ __pycache__/
 
 # C extensions
 *.so
+
+# Ignore Data
+~/Desktop/Spiced/TimeSeriesProject-StoreSales/data/
+data/datacsv/train.csv
+.DS_Store
 
 # Distribution / packaging
 .Python
