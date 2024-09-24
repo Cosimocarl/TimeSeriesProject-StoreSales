@@ -1,6 +1,6 @@
 data/datacsv/train.csv
 
-data/datacsv/train.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -14,7 +14,7 @@ __pycache__/
 ~/Desktop/Spiced/TimeSeriesProject-StoreSales/data/
 data/datacsv/train.csv
 .DS_Store
-
+data/*
 # Distribution / packaging
 .Python
 build/
